@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669964265 source:e:\mca\oops using c++\project\studentcourse\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<mmsystem.h>
+
